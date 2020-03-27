@@ -1,0 +1,43 @@
+body {
+	margin: 0;
+	background: #2e2e3a;
+}
+
+#titleThing h1 {
+	font-size: 90px;
+	color: #f34213;
+	margin-left: 200px;
+}
+
+#titleThing h2 {
+	font-size: 60px;
+	color: #de9151;
+	margin-left: 300px;
+}
+
+#links a {
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+}
+
+#info h2 {
+	font-size: 50px;
+	color: #de9151;
+}
+#info p {
+	color: white;
+	font-size: 25px;
+}
+#info {
+	margin: 0 200px;
+}
+
+#links {
+	margin: 0 200px;
+}
+
+#links a:hover {
+	color: black;
+	background: white;
+}
